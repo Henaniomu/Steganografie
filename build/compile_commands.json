@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/build",
+  "command": "/usr/bin/gcc   -Wall -Wextra -pedantic -ansi -g -o CMakeFiles/stegim.dir/src/main.c.o -c /mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/main.c",
+  "file": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/main.c"
+},
+{
+  "directory": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/build",
+  "command": "/usr/bin/gcc   -Wall -Wextra -pedantic -ansi -g -o CMakeFiles/stegim.dir/src/bmp.c.o -c /mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/bmp.c",
+  "file": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/bmp.c"
+},
+{
+  "directory": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/build",
+  "command": "/usr/bin/gcc   -Wall -Wextra -pedantic -ansi -g -o CMakeFiles/stegim.dir/src/lzw.c.o -c /mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/lzw.c",
+  "file": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/lzw.c"
+},
+{
+  "directory": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/build",
+  "command": "/usr/bin/gcc   -Wall -Wextra -pedantic -ansi -g -o CMakeFiles/stegim.dir/src/coder.c.o -c /mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/coder.c",
+  "file": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/coder.c"
+},
+{
+  "directory": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/build",
+  "command": "/usr/bin/gcc   -Wall -Wextra -pedantic -ansi -g -o CMakeFiles/stegim.dir/src/png_process.c.o -c /mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/png_process.c",
+  "file": "/mnt/c/Users/oleh1/Desktop/PC/Semestralka/src/png_process.c"
+}
+]

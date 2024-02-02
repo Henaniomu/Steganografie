@@ -1,5 +1,22 @@
 {
     "files.associations": {
+        "stddef.h": "c",
+        "bmp_reader.h": "c",
+        "config.h": "c",
+        "entry.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "coder.h": "c",
+        "png.h": "c",
+        "lzw.h": "c",
+        "bmp.h": "c",
         "png_process.h": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "cSpell.language": "en,cs,en-US,en-GB,lorem",
+    "cSpell.words": [
+        "Oleh",
+        "Tabachynskyi"
+    ]
 }

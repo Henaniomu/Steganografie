@@ -1,0 +1,3 @@
+/mnt/c/Users/oleh1/Desktop/PC/Semestralka/build/CMakeFiles/stegim.dir
+/mnt/c/Users/oleh1/Desktop/PC/Semestralka/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/oleh1/Desktop/PC/Semestralka/build/CMakeFiles/rebuild_cache.dir

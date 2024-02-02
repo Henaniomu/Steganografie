@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -Wextra -pedantic -ansi -g CMakeFiles/stegano.dir/src/main.c.o CMakeFiles/stegano.dir/src/bmp.c.o CMakeFiles/stegano.dir/src/lzw.c.o CMakeFiles/stegano.dir/src/coder.c.o CMakeFiles/stegano.dir/src/png_process.c.o -o stegano  -Wl,-rpath,/usr/local/lib /usr/lib/x86_64-linux-gnu/libpng.so -lm /usr/local/lib/libz.so 

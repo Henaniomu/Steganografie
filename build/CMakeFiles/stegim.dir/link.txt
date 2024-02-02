@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -Wextra -pedantic -ansi -g CMakeFiles/stegim.dir/src/main.c.o CMakeFiles/stegim.dir/src/bmp.c.o CMakeFiles/stegim.dir/src/lzw.c.o CMakeFiles/stegim.dir/src/coder.c.o CMakeFiles/stegim.dir/src/png_process.c.o -o stegim  -Wl,-rpath,/usr/local/lib /usr/lib/x86_64-linux-gnu/libpng.so -lm /usr/local/lib/libz.so 

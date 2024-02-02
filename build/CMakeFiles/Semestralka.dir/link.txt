@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -Wextra -pedantic -ansi -g CMakeFiles/Semestralka.dir/src/main.c.o CMakeFiles/Semestralka.dir/src/bmp.c.o CMakeFiles/Semestralka.dir/src/lzw.c.o CMakeFiles/Semestralka.dir/src/coder.c.o -o Semestralka  -lm 
